@@ -1,1 +1,1 @@
-![airbnb_erd]{M:\alx-airbnb-database\ERD\airbnb_erd.drawio.png}
+![airbnb_erd](M:\alx-airbnb-database\ERD\airbnb_erd.drawio.png)
