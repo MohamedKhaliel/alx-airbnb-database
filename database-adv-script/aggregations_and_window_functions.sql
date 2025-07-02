@@ -14,6 +14,7 @@ GROUP BY
 
 
 
+
 SELECT user_id , COUNT(*) FROM booking GROUP BY user_id;
 SELECT 
     p.p_name,
